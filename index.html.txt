@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Benim Sitem</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            padding-top: 100px;
+        }
+        img {
+            width: 150px;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-size: 48px;
+            margin-bottom: 30px;
+        }
+        a {
+            display: block;
+            color: cyan;
+            font-size: 20px;
+            margin: 10px 0;
+            text-decoration: none;
+        }
+        a:hover {
+            color: lightgreen;
+        }
+    </style>
+</head>
+<body>
+    <img src="logo.png" alt="Logo">
+    <h1>Hoş Geldiniz</h1>
+    <a href="https://t.me/kullaniciniz" target="_blank">Telegram</a>
+    <a href="https://discord.gg/sunucunuz" target="_blank">Discord</a>
+    <a href="https://rentry.co/sayfaniz" target="_blank">Rentry</a>
+</body>
+</html>
